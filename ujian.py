@@ -37,7 +37,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.write("""
-# **Final Score IMK 3IA20**
+# **Final Score DASPRO 1IC05**
 Keep fighting and never surrender. #ThisIsOnlyTheBegining
 """)
 

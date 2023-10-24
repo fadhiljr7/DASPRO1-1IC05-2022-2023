@@ -1,4 +1,4 @@
-#/home/mufin/.local/share/virtualenvs/My_Projects-23sAJxQN/bin/activate...
+#/home/mufin/.local/share/virtualenvs/My_Projects-23sAJxQN/bin/activate
 
 import streamlit as st
 
